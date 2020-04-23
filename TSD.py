@@ -55,7 +55,7 @@ import pickle
 import matplotlib.pyplot as plt
 import random
 # Visualizations will be shown in the notebook.
-%matplotlib inline
+#%matplotlib inline
 
 # %%
 training_file = './train.p'
